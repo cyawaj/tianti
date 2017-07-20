@@ -51,7 +51,7 @@
      3、使用说明：
       3.0、本项目JDK默认显示的是1.7，用户可以自行选择1.7+。
       3.1、数据库使用mysql，初始化脚本位于tianti-module-admin中的src/main/webapp/scripts/tianti_stage.sql。
-      3.2、后台的登陆路径为http://ip:端口/login,用户名为admin，初始密码为123456。
+      3.2、后台的登陆路径为http://ip:端口/tianti-module-admin/login,用户名为admin，初始密码为123456。
       3.3、后台中所用到的图标是从font文件夹里面选择copy进去的，font文件夹在聊天群里面拥有。
       3.4、编辑器的配置修改editor_config.js的var context_ = "http://127.0.0.1:8080/tianti-module-admin";
       3.5、前端项目（tianti-module-gateway）是一个静态项目，可以直接部署到web容器，支持多端自适应，需要跑接口系统。
